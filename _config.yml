@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:murray22@stanford.edu"
+      # url: "mailto:murray22@stanford.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://mmurray22.github.io/"
