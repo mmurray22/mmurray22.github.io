@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Michaela M."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior. Armchair Comedian. they/them"
-  location         : "Stanford"
+  bio              : "Senior. they/them"
+  location         : "Stanford University"
   email            : "murray22 'at' stanford.edu"
   links:
     - label: "Email"
@@ -148,6 +148,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
