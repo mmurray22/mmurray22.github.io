@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hello, World."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Michaela"
+name                     : "Micah"
 description              : "An amazing website."
 url                      : https://mmurray22.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -64,7 +64,7 @@ search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
-  index_name             : Michaela # YOUR_INDEX_NAME
+  index_name             : Micah # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true
 google:
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michaela M."
+  name             : "Micah Murray"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior. they/them"
-  location         : "Stanford University"
-  email            : "murray22 'at' stanford.edu"
+  bio              : "Rising Second Year. he/they"
+  location         : "Current Bear. Former Tree"
+  email            : "micahmurray 'at' acm.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:murray22@stanford.edu"
+      # url: "mailto:micahmurray@acm.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://mmurray22.github.io/"
