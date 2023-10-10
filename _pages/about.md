@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name if Michaela, I am a Senior at Stanford University, and I use they/them pronouns.
+Hello there! My name is Micah, and I am a rising Second Year PhD student at UC Berkeley.
